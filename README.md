@@ -1,6 +1,6 @@
 # Best Neurosurgeon In Chennai – Dr. K R Suresh Bapu
 
-(Dr. K. R. Suresh Bapu)[https://medifyr.com/chennai/doctor/kr-suresh-bapu-neurosurgeon] is an experienced neurosurgeon based out of Chennai and specialises in the surgical management and diagnosis of complicated conditions of the brain, spine and nerves. He is associated with the Institute of Neurosciences at SIMS Hospital, Vadapalani, Chennai, as Director and Senior Consultant Neurosurgeon. He has decades of clinical and academic experience and has contributed to neurosurgical care, medical education and the training of future specialists.
+[Dr. K. R. Suresh Bapu](https://medifyr.com/chennai/doctor/kr-suresh-bapu-neurosurgeon) is an experienced neurosurgeon based out of Chennai and specialises in the surgical management and diagnosis of complicated conditions of the brain, spine and nerves. He is associated with the Institute of Neurosciences at SIMS Hospital, Vadapalani, Chennai, as Director and Senior Consultant Neurosurgeon. He has decades of clinical and academic experience and has contributed to neurosurgical care, medical education and the training of future specialists.
 
 ## Education & Professional Experience
 
